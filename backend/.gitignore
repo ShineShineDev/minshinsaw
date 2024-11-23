@@ -1,0 +1,71 @@
+.env
+public/storage
+/storage/*.key
+Homestead.yaml
+Homestead.json
+.env.backup
+.phpunit.result.cache
+/nova
+/storage/logs/*.log
+
+/vendor
+composer.phar
+
+
+/node_modules
+
+# NPM
+npm-debug.log
+yarn-error.log
+
+# PHPUnit
+/phpunit.xml
+/phpunit.xml.dist
+
+# IDEs and Editors
+.idea
+*.code-workspace
+.vscode
+*.sublime-workspace
+*.sublime-project
+
+# Laravel Mix
+mix-manifest.json
+/public/hot
+/public/mix-manifest.json
+/public/css/*.css
+/public/js/*.js
+/public/js/*.map
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# Sublime Text - User
+*.sublime-*
+
+# PhpStorm
+.idea
+
+# Homestead
+Homestead.yaml
+Homestead.json
+
+# Symfony
+/var/
+/vendor/
+/bin/
+/node_modules/
+/public/bundles/
+/public/build/
+/public/uploads/
+/var/cache/
+/var/logs/
+/var/sessions/
+/public/uploads/
+/var/bootstrap.php.cache
+
+# PHPUnit
+/phpunit.xml
+/phpunit.xml.dist
